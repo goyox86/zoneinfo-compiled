@@ -13,4 +13,4 @@ name = "zoneinfo_compiled"
 
 [dependencies]
 byteorder = "0.4"
-datetime = "0.4.2"
+datetime = { git = "https://github.com/goyox86/datetime.git" }
